@@ -39,6 +39,8 @@ install:
 
 script:
     - platformio test -e native
+    - pio remote -a DESKTOP-PNR9RGR test -e nodemcuv2
+    - pio remote -a DESKTOP-PNR9RGR run -e nodemcuv2 -t upload
 
 
 #
