@@ -26,7 +26,7 @@
 
 language: python
 python:
-    - "2.7"
+    - "3.8"
 
 sudo: false
 cache:
@@ -41,7 +41,7 @@ script:
     - platformio test -e native
     - pio remote agent list
     - pio remote --agent mydev test -e nodemcuv2
-    - pio remote --agent mydev run -e nodemcuv2
+    - pio remote --agent mydev run -e nodemcuv2 -t upload
 
 
 #
