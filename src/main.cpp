@@ -12,7 +12,7 @@ Servo myServo;
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "af26f3d09b8642aca5b8a5c7c3e325fb";
+char auth[] = "";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
