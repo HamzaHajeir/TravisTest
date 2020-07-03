@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "C:\\Users\\Hamza\\Documents\\PlatformIO\\Projects\\playground"
+		},
+		{
+			"path": "C:\\Users\\Hamza\\Documents\\PlatformIO\\Projects\\H4 test"
+		},
+		{
+			"path": "C:\\Users\\Hamza\\Documents\\PlatformIO\\Projects\\Ultrasonic"
+		},
+		{
+			"path": "C:\\Users\\Hamza\\Documents\\PlatformIO\\Projects\\pubsubclient_Test"
+		},
+		{
+			"name": "HC-12 Test",
+			"path": "C:\\Users\\Hamza\\Documents\\PlatformIO\\Projects\\HC-12 Test"
+		},
+		{
+			"name": "HC-12 Testing Arduino",
+			"path": "C:\\Users\\Hamza\\Documents\\PlatformIO\\Projects\\HC-12 Testing Arduino"
+		},
+		{
+			"name": "h4 snippets test",
+			"path": "C:\\Users\\Hamza\\Documents\\PlatformIO\\Projects\\h4 snippets test"
+		},
+		{
+			"name": "ESP-NOW",
+			"path": "C:\\Users\\Hamza\\Documents\\PlatformIO\\Projects\\ESP-NOW"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iterator": "cpp"
+		}
+	}
+}
