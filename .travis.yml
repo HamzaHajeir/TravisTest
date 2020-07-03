@@ -38,6 +38,7 @@ install:
     - platformio update
 
 script:
+    - pio remote update
     - platformio test -e native
     - pio remote agent list
     - pio remote --agent mydev test -e nodemcuv2
