@@ -41,6 +41,7 @@ script:
     - pio remote update
     - platformio test -e native
     - pio remote agent list
+    - pio remote run -e nodemcuv2 --force-remote
     - pio remote --agent mydev test -e nodemcuv2
     - pio remote --agent mydev run -e nodemcuv2 -t upload
 
